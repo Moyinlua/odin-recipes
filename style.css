@@ -1,0 +1,24 @@
+#back {color: gray; font-size: 12px;}
+
+h1 {
+    color: brown;
+}
+
+a {
+    color: rgba(132, 47, 47, 0.555);
+}
+
+.dodo {
+    font-weight: bold;
+    color: rgb(180, 65, 65);
+}
+
+.ingredients {
+    color: red;
+
+}
+
+.dodo {
+    width: 450px;
+    height: auto;
+}
